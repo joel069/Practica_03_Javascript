@@ -1,0 +1,69 @@
+
+
+* {
+    margin: 2px;
+    padding: 0;
+}
+
+#titulo{
+    text-align: center;
+    padding: 40px 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+.todo{
+    position: absolute;
+    border-style: solid;
+    background: rgb(6, 228, 124)  ;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-30%) translateY(-30%);
+    margin-left: 400px;
+}
+
+body{
+    background-image: url(../imagenes/login.jpg)
+}
+
+.button{
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background: #8506da ;
+   
+}
+
+.boton{
+      height: 80px;
+      width: 75px;
+     margin-bottom: 20px;
+      background: #8506da ;
+
+}
+.h1{
+
+    align-content: center;
+}
+
+.numero{
+   
+    font-weight: bolder;
+}
+
+#pantalla{
+    width: 350px;
+    margin: 9px 5px;
+    font-size: 20px;
+    height: 100px;
+    padding: 5px;
+    color: rgb(236, 16, 16);
+    background-attachment: fixed;
+    border-style: none;
+    background: rgb(250, 251, 252);
+}

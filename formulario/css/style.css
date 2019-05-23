@@ -1,0 +1,63 @@
+.error {
+	border: 1px solid red;
+}
+
+
+body {
+	background-image: url('../img/login.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.p {
+	display: block !important;
+	color: red;
+}
+
+
+h1{
+	text-align: center;
+}
+
+td {
+	padding-top: 10px;
+	padding-right: 15px;
+	color: springgreen;
+}
+
+#crear, #cancelar {
+	width: 100px;
+	margin: 10px;
+
+}
+
+.boton {
+	text-align: center;
+	background-color: rgb(12, 152, 233);
+	margin-left: 55px;
+	border-style: groove;
+	border-radius: 10px;
+}
+
+
+.titulo{
+
+	text-align: center;
+	border-style: groove;
+	border-radius: 12px;
+	border-color: black;
+	margin-left: 450px;
+	margin-right:450px;
+}
+
+
+#form {
+	background-color: rgba(245, 14, 14, 0.6);
+	border-radius: 10px;
+	width: 350px;
+	padding: 10px 25px;
+	margin-right: 120px;
+	margin-left: 800px;
+	margin-top: 220px;
+	color: white;
+}
